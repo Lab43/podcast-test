@@ -44,7 +44,7 @@
 <guid>http://example.com/podcasts/archive/aae20140608.mp4</guid>
 <pubDate>Wed, 09 Mar 2016 13:00:00 EST</pubDate>
 <itunes:duration>04:34</itunes:duration>
-<itunes:explicit>no</itunes:explicit>
+<itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
 <title>The Best Chili</title>
